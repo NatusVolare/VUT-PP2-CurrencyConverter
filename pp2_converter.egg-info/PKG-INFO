@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: pp2_converter
+Version: 1.0.0
+Summary: Currency exchange rate calculator with a Tkinter GUI.
+Home-page: https://github.com/Jeffrey214/VUT-PP2-CurrencyConverter
+Author: Jeffrey R. Dotson
+Author-email: jeffreyrdotson@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Requires-Dist: tkcalendar
+Requires-Dist: Pillow
+Requires-Dist: matplotlib
+
+Final XPA-PP2 project for the Winter 2024 semester.
+
+By; Jeffrey R. Dotson
+
+Purpose of the Project: 
+4.Currency exchange rate calculator. The program reads current exchange rates from the internet and converts currencies specified by the user. The program saves history of exchanges to the file. Exchange rates are displayed in time; search for maximum - minimum - average exchange rates are provided.
+
+Final Build: 02.12.2024 - 13:51

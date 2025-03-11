@@ -1,0 +1,4 @@
+requests
+tkcalendar
+Pillow
+matplotlib
