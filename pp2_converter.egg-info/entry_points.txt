@@ -1,2 +1,0 @@
-[console_scripts]
-currency_converter = pp2_converter.main:main
