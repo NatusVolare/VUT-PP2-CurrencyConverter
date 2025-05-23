@@ -2,7 +2,7 @@
 
 **Version:** 1.0.0  
 **Author:** Jeffrey R. Dotson  
-**Email:** jeffreyrdotson@gmail.com  
+**Email:** jeffreyrdotson@vt.edu   
 **GitHub Repository:** [https://github.com/Jeffrey214/VUT-PP2-CurrencyConverter](https://github.com/Jeffrey214/VUT-PP2-CurrencyConverter)
 
 ## Overview
